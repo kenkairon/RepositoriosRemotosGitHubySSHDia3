@@ -51,3 +51,7 @@ Requerimientos:
 - Git instalado y configurado (del día anterior)
 - Cuenta en GitHub (github.com)
 - Terminal con acceso a comandos SSH
+
+## Agregar evidencia Quiz
+
+![Evidencia Quiz](images/Ssh.png)
