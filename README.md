@@ -1,5 +1,7 @@
 # **Ejercicio**: Configura SSH y conecta con GitHub
-
+| Autor            | Fecha        | Día |
+|------------------|--------------|----------|
+| **Carlos Vásquez** |04 Noviembre 2025 | 3 |
 ## Generar clave SSH:
 
 ```bash
